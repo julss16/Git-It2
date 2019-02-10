@@ -1,0 +1,45 @@
+p {
+	color:blue;
+}
+
+#red {
+	color:red;
+}
+
+h1 {
+	color: purple;
+}
+
+#home {
+	background-color: pink;
+}
+
+#info {
+	background-color: yellow;
+}
+
+#gurl {
+	color: blue;
+}
+
+#cheesy {
+	color: green;
+}
+
+.menu {
+	list-style:none;
+	float:right;
+	font-family: "Comic Sans";
+}
+
+.menu li {
+	display: inline;
+	border: 2px;
+	border-style: solid;
+	border-color: black;
+	margin: 5px;
+}
+
+.menu a {
+	color: black;
+}
